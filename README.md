@@ -48,7 +48,9 @@ tzdata            2025.1
 The training data is downloaded from online [UK Met Office Climate Portal](https://climatedataportal.metoffice.gov.uk/).
 
 ## Train and Plot
-please see the specific training parameters in specific python files.
+please see the specific training parameters in specific python files. The experimental results examples are:
+![](predictions_0.png)
+![](predictions_1.png)
 
 ## Citations
 
